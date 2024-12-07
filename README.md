@@ -1,1 +1,1 @@
-# admin-games
+# Ceating a snake game
