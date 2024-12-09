@@ -1,9 +1,10 @@
 # Hi There 👋
-<p>
-  Here i save games that i create very often
-  <li>
-    Snake game<br>
-    Pong game<br>
-    Turtle crossing game
-  </li>
-</p>
+
+ <p>
+        Here, I save the games that I create very often:
+    </p>
+    <ul>
+        <li>Snake Game</li>
+        <li>Pong Game</li>
+        <li>Turtle Crossing Game</li>
+    </ul>
