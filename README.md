@@ -7,4 +7,5 @@
         <li>Snake Game</li>
         <li>Pong Game</li>
         <li>Turtle Crossing Game</li>
+        <li>U.S. States Guessing Game</li>
     </ul>
