@@ -7,5 +7,3 @@ Here, I save the games that I create very often:
 - Turtle Crossing Game
 - U.S. States Guessing Game
 - Pomodoro Game
-
-![Pomodoro Game](./Solution-pomodoro-end/pomodoro.png)
