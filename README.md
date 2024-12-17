@@ -8,4 +8,6 @@
         <li>Pong Game</li>
         <li>Turtle Crossing Game</li>
         <li>U.S. States Guessing Game</li>
+        <li>Pomodoro Game</li>
+     <img src="./Solution-pomodoro-end/pomodoro.png">
     </ul>
